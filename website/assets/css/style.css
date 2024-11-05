@@ -1,3 +1,26 @@
 body{
-    background: black;
+   background: black;
 }
+
+}
+
+#tagline{
+    background-image: url('../img/bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.contenedor {
+    height: 100vh;
+}
+
+#title1{
+    font-size: 75px;
+}
+
+#title2{
+    font-size:45px;
+}
+
