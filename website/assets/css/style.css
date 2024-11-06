@@ -1,3 +1,14 @@
 body{
     background: #f3efef;
 }
+
+.second-image {
+    height: 350px;
+    width: 350px;
+}
+
+.second-heading {
+    border-bottom: solid rgb(241, 241, 241) ;
+    border-top: solid rgb(241, 241, 241);
+    
+}
