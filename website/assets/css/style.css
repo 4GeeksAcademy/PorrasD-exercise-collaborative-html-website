@@ -12,6 +12,10 @@ body{
     border-top: solid rgb(241, 241, 241);
 }
 
+.contact{
+    border-top: solid rgb(241, 241, 241);
+}
+
 #tagline{
     background-image: url('../img/bg.jpg');
     background-position: center;
