@@ -1,5 +1,5 @@
 body{
-    background: #f3efef;
+    background: black;
 }
 
 .second-image {
@@ -10,5 +10,25 @@ body{
 .second-heading {
     border-bottom: solid rgb(241, 241, 241) ;
     border-top: solid rgb(241, 241, 241);
-    
 }
+
+#tagline{
+    background-image: url('../img/bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.contenedor {
+    height: 100vh;
+}
+
+#title1{
+    font-size: 75px;
+}
+
+#title2{
+    font-size:45px;
+}
+
